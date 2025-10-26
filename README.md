@@ -1,4 +1,5 @@
 # GreenerCities_Tree_Planting_Prediction
+This project goes beyond my imagination, applying my knowledge in machine learning to address environmental challenges and contribute to reducing pollution and creating a healthier living environment.
 
 Greener Cities with AI: Tree Planting Prediction 🌳🌴🌲🍃🥬🌿
 
